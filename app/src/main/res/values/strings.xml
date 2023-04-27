@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MyCryptoApp</string>
+    <string name="title_activity_chart">Chart Activity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="timespan_30days">1D</string>
+    <string name="timespan_60days">1W</string>
+    <string name="timespan_180days">1M</string>
+    <string name="timespan_1year">1Y</string>
+    <string name="timespan_2years">2Y</string>
+    <string name="timespan_all_time">5Y</string>
+</resources>
